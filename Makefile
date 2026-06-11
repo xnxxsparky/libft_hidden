@@ -6,7 +6,7 @@
 #    By: bcausseq <bcausseq@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/01 22:18:57 by bcausseq          #+#    #+#              #
-#    Updated: 2025/12/13 19:07:43 by bcausseq         ###   ########.fr        #
+#    Updated: 2026/06/11 21:43:57 by bcausseq         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,7 +18,7 @@ INCLUDE		= includes
 
 NAME		= libft.a
 
-BUILD_DIR	= build
+BUILD_DIR	= .build
 
 SRCS_DIRS	= char conversion io memory miscs string .
 
